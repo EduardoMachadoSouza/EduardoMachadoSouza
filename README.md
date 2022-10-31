@@ -3,4 +3,4 @@
 ## About...
 <strong>chamado.do.vazio</strong>
 
-Student :yeah:, I don't know what I am doing
+Student <em>yeah</em>, I don't know what I am doing
